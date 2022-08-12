@@ -1,0 +1,7 @@
+node_modules
+.husky
+dist
+coverage
+yarn.lock
+.env
+api-gateway
