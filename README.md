@@ -1,5 +1,4 @@
 # Proyecto 1 - Grupo 13
----
 # SoundStream
 SoundStream es una plataforma de streaming de música cuya intención es promover el arte en el territorio Guatemalteco, prometiendo una experiencia robusta, confiable y amigable para sus clientes. Es una plataforma completamente en la nube, diseñada para ser utilizada en cualquier navegador Web. 
 
