@@ -1,15 +1,5 @@
 # Proyecto 1 - Grupo 13
-## Integrantes
-| Carnet     | Nombre                     |
-| ---------  | -------------------------- |
-| 201504220  | José Andres Rodas Arrecis          |
-| 201314808  | Leslie Fabiola Morales Gonzalez    |
-| 201513699  | Esdras Jonatan Noj Larios          |
-| 201800699  | Ronald Alexandro Castro Pérez      |
-| 201800586  | Gerber David Colíndres Monterroso  |
-
 ---
-
 # SoundStream
 SoundStream es una plataforma de streaming de música cuya intención es promover el arte en el territorio Guatemalteco, prometiendo una experiencia robusta, confiable y amigable para sus clientes. Es una plataforma completamente en la nube, diseñada para ser utilizada en cualquier navegador Web. 
 
